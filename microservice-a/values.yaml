@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: nginx
+  repository: registry-intl.ap-southeast-3.aliyuncs.com/tinesh-poc-devops/java-webapp-docker
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "v6"
 
 imagePullSecrets: []
 nameOverride: ""
