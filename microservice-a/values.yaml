@@ -8,7 +8,7 @@ image:
   repository: registry-intl.ap-southeast-3.aliyuncs.com/tinesh-poc-devops/java-webapp-docker
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v6"
+  tag: "v7"
 
 imagePullSecrets: []
 nameOverride: ""
