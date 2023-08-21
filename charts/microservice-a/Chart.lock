@@ -1,0 +1,6 @@
+dependencies:
+- name: main-chart
+  repository: file://../main-chart
+  version: 0.1.0
+digest: sha256:dc84f192e6b755be447af22c50a9e19e9a236a4134bffe4dee7d7765c5860487
+generated: "2023-08-21T23:53:53.5608796+08:00"
